@@ -1,6 +1,5 @@
 <img src="https://github.com/oubouhiam/oubouhiam/blob/main/img/header.png" alt="Techdeveloper">
 
-<h2 align="center"> Languages and Tools: </h2>
 
 <p align="center">
 <a href="https://github.com/naaoufal">
