@@ -22,6 +22,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=oubouhiam" align="center">
 </h2>
   
-  
+<div  align="center">  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oubouhiam)](https://github.com/oubouhiam/oubouhiam)
+</div>
 
