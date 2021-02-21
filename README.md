@@ -18,7 +18,7 @@
   
 
 
-<h2 align="center"> I make things! <br>
+<h2 align="center">  <br>
   <img src="https://github-readme-stats.vercel.app/api?username=oubouhiam" align="center">
 </h2>
   
