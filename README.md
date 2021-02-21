@@ -1,7 +1,7 @@
 <img src="https://github.com/oubouhiam/oubouhiam/blob/main/img/header.png" alt="Techdeveloper">
 
 <h2 align="center"> Languages and Tools: 
-<div align="center">
+<div align="center"; margin-top="30px">
   <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/791px-CSS3_and_HTML5_logos_and_wordmarks.svg.png"></code>
 <code><img height="20" src="https://i.pinimg.com/originals/41/95/cf/4195cf989fac0128a89669f40a1e3496.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png"></code>
