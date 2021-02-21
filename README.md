@@ -1,6 +1,7 @@
 <img src="https://github.com/oubouhiam/oubouhiam/blob/main/img/header.png" alt="Techdeveloper">
 
-<h2 align="center"> Languages and Tools: <br> <br>
+<h2 align="center"> Languages and Tools: </h2>
+
 <div align="center" >
   <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/791px-CSS3_and_HTML5_logos_and_wordmarks.svg.png"></code>
 <code><img height="20" src="https://i.pinimg.com/originals/41/95/cf/4195cf989fac0128a89669f40a1e3496.png"></code>
@@ -14,7 +15,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://avatars0.githubusercontent.com/u/6181431?s=280&v=4"></code>
   </div>
-  </h2>
+  
 
 
 <h2 align="center"> I make things! <br>
