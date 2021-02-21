@@ -15,7 +15,7 @@ Languages and Tools:
 <code><img height="20" src="https://avatars0.githubusercontent.com/u/6181431?s=280&v=4"></code>
 
 <h2 align="center"> I make things! <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=oubouhiam_icons=true&theme=radical" align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=oubouhiam" align="center">
 </h2>
   
   
