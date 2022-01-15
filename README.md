@@ -1,5 +1,5 @@
-<img src="https://github.com/oubouhiam/oubouhiam/blob/main/img/header.png" alt="Techdeveloper">
-
+<!-- <img src="https://github.com/oubouhiam/oubouhiam/blob/main/img/header.png" alt="Techdeveloper">
+ -->
 
 <p align="center">
 <a href="https://github.com/oubouhiam">
